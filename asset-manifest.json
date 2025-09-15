@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/TDL/static/css/main.98a8cce0.css",
+    "main.js": "/TDL/static/js/main.6dcef520.js",
+    "static/js/453.31283944.chunk.js": "/TDL/static/js/453.31283944.chunk.js",
+    "static/media/image.png": "/TDL/static/media/image.376fb966b79c57b1d96d.png",
+    "static/media/logo.svg": "/TDL/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/TDL/index.html",
+    "main.98a8cce0.css.map": "/TDL/static/css/main.98a8cce0.css.map",
+    "main.6dcef520.js.map": "/TDL/static/js/main.6dcef520.js.map",
+    "453.31283944.chunk.js.map": "/TDL/static/js/453.31283944.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.98a8cce0.css",
+    "static/js/main.6dcef520.js"
+  ]
+}
